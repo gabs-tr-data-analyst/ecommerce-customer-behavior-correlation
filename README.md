@@ -43,7 +43,7 @@ novaretail-comportamiento-clientes/
 
 ## 📊 Visualizaciones
 
-![Heatmap de correlaciones](img/heatmap_1.png)
+![Heatmap de correlaciones](heatmap_1.png)
 *Matriz de correlación completa — destaca la cadena publicidad → visitas → compras → ingreso (r=0.97 entre compras e ingreso) y la desconexión del programa Premium con el resto de las variables.*
 
 ---
